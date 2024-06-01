@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Freeman-Geo
 - 👀 I’m interested in programming AI
-- 🌱 I’m just about to finish back end, and, (Thinking about going for AI)
-- 💞️ Almost ready for starting Data Analist
-- 📫 and you can reach me by phone 3310385821 whatsapp and phone 
+- 🌱 I’m just finished the full stack and, I´m on the way to Data Science
+- 💞️ Going to AI
+- 📫 You can reach me by phone which is the same as my WhatsApp 3310385821
+- or send me an Email geofreemanweb@gmail.com 
 
 <!---
 Freeman-Geo/Freeman-Geo is an ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
